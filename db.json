@@ -10,8 +10,8 @@
                     "price": 3800000,
                     "color": "Silver",
                     "colorCode": "#DFDFDD",
-                    "picture": "/images/apple-watch-3-silver.jpg",
-                    "thumbnail": "/images/resized-apple-watch-3-silver.jpg"
+                    "image": "/img/apple-watch-3-silver.jpg",
+                    "thumbnail": "/img/small_apple-watch-3-silver.jpg"
                 },
                 {
                     "sku": "1002",
@@ -19,8 +19,8 @@
                     "price": 3800000,
                     "color": "Space Grey",
                     "colorCode": "#84888B",
-                    "picture": "/images/apple-watch-3-space-grey.jpg",
-                    "thumbnail": "/images/resized-apple-watch-3-space-grey.jpg"
+                    "image": "/img/apple-watch-3-space-grey.jpg",
+                    "thumbnail": "/img/small_apple-watch-3-space-grey.jpg"
                 }
             ]
         },
@@ -34,8 +34,8 @@
                     "price": 12000000,
                     "color": "Silver",
                     "colorCode": "#DFDFDD",
-                    "picture": "/images/apple-iphone-xs-silver.jpg",
-                    "thumbnail": "/images/resized-apple-iphone-xs-silver.jpg"
+                    "image": "/img/apple-iphone-xs-silver.jpg",
+                    "thumbnail": "/img/small_apple-iphone-xs-silver.jpg"
                 },
                 {
                     "sku": "2002",
@@ -43,8 +43,8 @@
                     "price": 12000000,
                     "color": "Space Grey",
                     "colorCode": "#56585D",
-                    "picture": "/images/apple-iphone-xs-space-grey.jpg",
-                    "thumbnail": "/images/resized-apple-iphone-xs-space-grey.jpg"
+                    "image": "/img/apple-iphone-xs-space-grey.jpg",
+                    "thumbnail": "/img/small_apple-iphone-xs-space-grey.jpg"
                 },
                 {
                     "sku": "2003",
@@ -52,8 +52,8 @@
                     "price": 12000000,
                     "color": "Gold",
                     "colorCode": "#ECCCB5",
-                    "picture": "/images/apple-iphone-xs-gold.jpg",
-                    "thumbnail": "/images/resized-apple-iphone-xs-gold.jpg"
+                    "image": "/img/apple-iphone-xs-gold.jpg",
+                    "thumbnail": "/img/small_apple-iphone-xs-gold.jpg"
                 }
             ]
         },
@@ -67,8 +67,8 @@
                     "price": 24000000,
                     "color": "Silver",
                     "colorCode": "#DFDFDD",
-                    "picture": "/images/apple-macbook-pro-13-silver.jpg",
-                    "thumbnail": "/images/resized-apple-macbook-pro-13-silver.jpg"
+                    "image": "/img/apple-macbook-pro-13-silver.jpg",
+                    "thumbnail": "/img/small_apple-macbook-pro-13-silver.jpg"
                 },
                 {
                     "sku": "3002",
@@ -76,8 +76,8 @@
                     "price": 24000000,
                     "color": "Space Grey",
                     "colorCode": "#84888B",
-                    "picture": "/images/apple-macbook-pro-13-space-grey.jpg",
-                    "thumbnail": "/images/resized-apple-macbook-pro-13-space-grey.jpg"
+                    "image": "/img/apple-macbook-pro-13-space-grey.jpg",
+                    "thumbnail": "/img/small_apple-macbook-pro-13-space-grey.jpg"
                 }
             ]
         },
@@ -91,8 +91,8 @@
                     "price": 28000000,
                     "color": "Silver",
                     "colorCode": "#DFDFDD",
-                    "picture": "/images/apple-macbook-pro-15-silver.jpg",
-                    "thumbnail": "/images/resized-apple-macbook-pro-15-silver.jpg"
+                    "image": "/img/apple-macbook-pro-15-silver.jpg",
+                    "thumbnail": "/img/small_apple-macbook-pro-15-silver.jpg"
                 },
                 {
                     "sku": "4002",
@@ -100,8 +100,8 @@
                     "price": 28000000,
                     "color": "Space Grey",
                     "colorCode": "#84888B",
-                    "picture": "/images/apple-macbook-pro-15-space-grey.jpg",
-                    "thumbnail": "/images/resized-apple-macbook-pro-15-space-grey.jpg"
+                    "image": "/img/apple-macbook-pro-15-space-grey.jpg",
+                    "thumbnail": "/img/small_apple-macbook-pro-15-space-grey.jpg"
                 }
             ]
         }
